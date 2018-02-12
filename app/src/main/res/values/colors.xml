@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bg_activity">#F3F3F3</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="text_white">#F7F7F7</color><!--白色 -->
+
+    <color name="text_black">#282C2E</color><!--黑色字体 -->
+    <color name="text_gray">#838181</color><!--灰色字体 -->
+    <color name="text_light_gray">#C4C4C4</color><!--浅灰色字体 -->
+    <color name="text_blue">#3DA3D8</color><!--蓝色字体 -->
+    <color name="text_light_blue">#54C6FB</color><!--轻蓝色字体 -->
+    <color name="text_light_green">#96FF2D</color><!--轻蓝色字体 -->
+
+    <color name="bg_white">#FBFBFB</color><!--白色 -->
+    <color name="bg_title_white">#F0F0F0</color><!--白色 -->
+    <color name="bg_title_black">#202020</color><!--白色 -->
+    <color name="bg_light_gray">#EFEFEF</color><!--背景亮灰色 -->
+    <color name="bg_blue">#448dd9</color><!--背景蓝色 -->
+    <color name="bg_light_blue">#3ac2df</color><!--背景亮蓝色 -->
+    <color name="bg_btn_press">#EAF6FE</color><!--按键按下的背景-->
+
+    <color name="light_gray_white">#DFDFDF</color><!--透明灰-->
+    <color name="pink">#F46C89</color><!--红色 -->
+    <color name="tint_gray">#DCDCDC</color><!--淡灰色 -->
+    <color name="light_gray">#E6E6E6</color><!--亮灰色 -->
+    <color name="transparent_light_blue">#ADD8E6</color><!--透明亮蓝色 -->
+    <color name="transparent_sky_blue">#6487CEEB</color><!--透明天蓝色 -->
+    <color name="green">#008000</color><!--绿色 -->
+</resources>

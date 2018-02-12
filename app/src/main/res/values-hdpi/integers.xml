@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--map相关-->
+    <integer name="route_width">33</integer>
+
+    <integer name="param_hdpi_8">8</integer>
+    <integer name="param_hdpi_14">14</integer>
+    <integer name="param_hdpi_16">16</integer>
+</resources>

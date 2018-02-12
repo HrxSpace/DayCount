@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DayCount</string>
+
+    <string name="pass_away">过去了</string>
+    <string name="year">年</string>
+    <string name="month">月</string>
+    <string name="day">日</string>
+
+</resources>
